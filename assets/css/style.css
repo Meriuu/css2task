@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+
+.box{
+    height: 400px;
+    width: 1400px;
+    background-image: url(../image/img_tree.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    border: 8px double black;
+    margin: 250px 5px 5px 200px;
+}
